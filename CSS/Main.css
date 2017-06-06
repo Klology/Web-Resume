@@ -1,0 +1,69 @@
+/******************************
+Generics
+*******************************/
+h1 {
+
+}
+
+ul {
+
+}
+
+ol {
+
+}
+
+li {
+
+}
+
+p {
+
+}
+
+/******************************
+Hero
+*******************************/
+
+nav li {
+  display: inline-block;
+  margin: 0 50px;
+  font-size: 24px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  color: darkblue;
+}
+
+nav ul{
+
+}
+
+nav {
+  font-weight: bold;
+  text-align: center;
+  background-color: yellow;
+  border: 0;
+  border-top: 10px;
+  border-bottom: 10px;
+  border-style: solid;
+  border-color: #111111;
+}
+
+header h1 {
+  text-align: center;
+  background-color: #444444;
+  color: white;
+  margin: 0;
+  padding: 20px;
+  font-size: 36px;
+}
+
+header {
+
+}
